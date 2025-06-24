@@ -20,6 +20,6 @@ Olá! Meu nome é Rebeca Vitória. 💻
 
 - Em breve: Python, React, Node.js, SQL
 
-- #SOCIAL:
+ # SOCIAL:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebecavitorya022/)
 - [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/723628233911697458)
