@@ -16,13 +16,6 @@
 
 ✨ “A união entre tecnologia e gestão é o que transforma boas ideias em grandes resultados.”  
 
-###
-
-<img align="right" height="250" src="https://giffiles.alphacoders.com/121/12113.gif"  />
-
-### 
-
-
 ## Habilidades:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
@@ -34,6 +27,11 @@
   <img width="12" /> 
 
 - Em breve: SQL
+###
+
+<img align="right" height="250" src="https://giffiles.alphacoders.com/121/12113.gif"  />
+
+### 
 
  # Social:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebecavitorya022/)
