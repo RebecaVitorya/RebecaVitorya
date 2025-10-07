@@ -1,5 +1,6 @@
 # 
-👋 Olá, eu sou a Rebeca Vitórya! 😁😃
+
+## 👏Olá, eu sou a Rebeca Vitórya!😁😃
 ## 💻 Sobre mim
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** e **Administração**  
 - 💼 Foco no **desenvolvimento Back-End** e na **gestão de projetos tecnológicos**  
