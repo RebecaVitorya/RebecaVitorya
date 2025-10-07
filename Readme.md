@@ -1,14 +1,27 @@
-# meu-README 😊😊
-Minha descrição foi escrita usando Markdown, uma linguagem de marcação simples usada para formatar textos.
+# 
+👋 Olá, eu sou a Rebeca Vitórya!
 
-# Sobre mim
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Administração**, unindo a visão de negócios à tecnologia para criar soluções completas e inovadoras. 💡  
+Apaixonada por aprender, busco crescer na área de **desenvolvimento Back-End** e, futuramente, me especializar em **Cibersegurança**. 🚀  
+## 💻 Sobre mim
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** e **Administração**  
+- 💼 Foco no **desenvolvimento Back-End** e na **gestão de projetos tecnológicos**  
+- 🌱 Estudando **JavaScript** e **Node.js** pela DIO  
+- 🔐 Interessada em **Cibersegurança**, **Engenharia de Software** e **transformação digital**  
+- 💬 Acredito que disciplina, lógica e adaptabilidade são minhas maiores virtudes  
 
-Olá! Meu nome é Rebeca Vitória. 💻
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** JavaScript (Node.js)  
+- **Versionamento:** Git e GitHub  
+- **Outros Interesses:** Lógica de Programação, Java (em breve), Segurança da Informação  
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Aprendendo para me tornar uma desenvolvedora Back-End
-- 💼 Foco em projetos que back-end
-- 🚀 Buscando oportunidades para crescer e mostrar meu portfólio
+## 🎯 Objetivos
+Atualmente, busco uma oportunidade de **estágio em TI**, onde possa aplicar meus conhecimentos técnicos, aprender com profissionais experientes e desenvolver soluções que gerem impacto positivo nos negócios.
+---
+✨ _“A união entre tecnologia e gestão é o que transforma boas ideias em grandes resultados.”_  
+📫 Entre em contato comigo: **rebeca11vi29@gmail.com**
+
+
 
 ## Minhas habilidades:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
