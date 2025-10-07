@@ -36,6 +36,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebecavitorya022/)[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/723628233911697458)
 
 
-![gif de cobra](https://github.com/RebecaVitorya/RebecaVitorya/blob/output/github-snake-dark.svg)
+![gif de cobra](https://github.com/RebecaVitorya/RebecaVitorya/blob/output/github-snake-radical.svg)
 
 
