@@ -39,10 +39,3 @@
 
 
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/RebecaVitorya/RebecaVitorya/output/snake.svg" alt="Snake animation" />
-
-###
