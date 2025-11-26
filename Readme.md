@@ -2,11 +2,10 @@
 
 ## 👏Olá, eu sou a Rebeca Vitórya!😁😃
 ## 💻 Sobre mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** e **Administração**  
-- 💼 Foco no **desenvolvimento Back-End** e na **gestão de projetos tecnológicos**  
-- 🌱 Estudando **JavaScript** e **Node.js** pela DIO  
-- 🔐 Interessada em **Cibersegurança**, **Engenharia de Software** e **transformação digital**  
-- 💬 Acredito que disciplina, lógica e adaptabilidade são minhas maiores virtudes
+- 🎓 Estudante de **Engenharia de Software** 
+- 💼 Foco no **desenvolvimento Back-End & Cybersegurity**
+- 🌱 Estudando **JavaScript** e **Node.js** pela DIO e na faculdade**Linguagem C**    
+- 💬 Acredito que disciplina, lógica, adaptabilidade e aprendizagem contínua são minhas maiores virtudes
 
 ###
 
