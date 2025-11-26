@@ -5,7 +5,7 @@
 - 🎓 Estudante de **Engenharia de Software** 
 - 💼 Foco no **desenvolvimento Back-End & Cybersegurity**
 - 🌱 Estudando **JavaScript** e **Node.js** pela DIO e na faculdade**Linguagem C**    
-- 💬 Acredito que disciplina, lógica, adaptabilidade e aprendizagem contínua são minhas maiores virtudes
+- 💬 Acredito que disciplina, lógica, adaptabilidade e aprendizagem contínua são minhas maiores virtudes.
 
 ###
 
@@ -15,6 +15,7 @@
 </div>
 
 ✨ “A união entre tecnologia e gestão é o que transforma boas ideias em grandes resultados.”  
+###
 
 ## Habilidades:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
