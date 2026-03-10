@@ -1,6 +1,6 @@
 # 
 
-## 👏Olá, meu nome é Rebeca Vitórya!😁😃
+## 👏Olá!😁😃
 ## 💻 Sobre mim
 - 🎓 Estudante de **Engenharia de Software** 
 - 💼 Foco no **desenvolvimento Back-End & Cybersegurity**
