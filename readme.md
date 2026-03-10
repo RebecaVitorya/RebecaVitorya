@@ -2,10 +2,10 @@
 
 ## 😁
 ## 💻 Sobre mim
-- 🎓 Estudante de **Engenharia de Software** 
-- 💼 Foco no **desenvolvimento Back-End & Cybersegurity**
-- 🌱 Estudando **Linguagem C**, **JavaScript** e **Node.js** 
-- 💬 Acredito que disciplina, lógica, adaptabilidade e aprendizagem contínua são minhas maiores virtudes.
+🎓 Estudante de **Engenharia de Software** 
+💼 Foco no **desenvolvimento Back-End & Cybersegurity**
+🌱 Estudando **Linguagem C**, **JavaScript** e **Node.js** 
+💬 Acredito que disciplina, lógica, adaptabilidade e aprendizagem contínua são minhas maiores virtudes.
 
   
 ###
