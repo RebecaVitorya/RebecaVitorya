@@ -21,10 +21,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"/><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"/>
 <img width="12" /> 
 
+
+
+<img align="right" height="250" src="https://giffiles.alphacoders.com/121/12113.gif"  />
+
+
+
+
+
 - Em breve: SQL, ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ###
 
-<img align="right" height="250" src="https://giffiles.alphacoders.com/121/12113.gif"  />
 
 ### 
  # Social:
