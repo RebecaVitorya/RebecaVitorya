@@ -6,7 +6,7 @@
 
 💼 Foco no **desenvolvimento Back-End & Cybersegurity**
 
-🌱 Estudando **JavaScript**,**Linguagem C** e **Node.js** 
+🌱 Estudando **JavaScript**, **Linguagem C** e **Node.js** 
 
 💬 Acredito que disciplina, lógica, adaptabilidade e aprendizagem contínua são minhas maiores virtudes.
 
